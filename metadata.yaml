@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Marc_Lescarbot
     - http://fr.wikipedia.org/wiki/Marc_Lescarbot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20457#La-Defaite-des-Sauvages-Armouchiquois-par-le-Sagamos-Membertou-et-ses-alliez-Sauvages-en-la-N_
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2007-01-27'
 gutenberg_type: Text
