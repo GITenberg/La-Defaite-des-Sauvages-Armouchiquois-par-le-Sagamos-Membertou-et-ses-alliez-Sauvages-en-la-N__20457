@@ -1,0 +1,33 @@
+_repo: La-Defaite-des-Sauvages-Armouchiquois-par-le-Sagamos-Membertou-et-ses-alliez-Sauvages-en-la-N__20457
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lescarbot, Marc
+    alias: Lescarbot, Marc
+    birthdate: 1570
+    deathdate: 1641
+    gutenberg_agent_id: '25225'
+    url: http://www.gutenberg.org/2009/agents/25225
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Marc_Lescarbot
+    - http://fr.wikipedia.org/wiki/Marc_Lescarbot
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2007-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20457'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Nova Scotia'
+- !lcsh 'Indians of North America -- Nova Scotia -- Poetry'
+- !lcc 'F1001'
+title: La Defaite des Sauvages Armouchiquois par le Sagamos Membertou et ses alliez
+  Sauvages, en la Nouvelle France, au mois de Juillet dernier, 1607
+url: http://www.gutenberg.org/ebooks/20457
